@@ -1,5 +1,5 @@
 # Multithreading-Airport
-multithreading task solution
+multithreading task solution (master branch)
 
 #Завдання:
 Пасажирів, прибувших на трьох (чотирьох, п’яти) літаках одночасно, розвозять мікроавтобуси.
